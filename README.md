@@ -21,7 +21,7 @@ This project demonstrates image classification of flowers using deep learning mo
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/not-saad-zahid/Flower_Classifier.git
+    git clone https://github.com/not-saad-zahid/Flower-Classifier.git
     ```
 2. Open the notebooks in Jupyter Notebook or JupyterLab.
 3. Follow the step-by-step instructions to train and test the flower classification model.
